@@ -1,0 +1,1 @@
+F.get_image_num_channels()
