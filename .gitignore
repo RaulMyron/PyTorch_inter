@@ -1,2 +1,8 @@
 /venv
 2 - images/clouds
+*.pth
+jupyter/clouds
+*.ipynb_checkpoints
+*.virtual_documents
+*.tar.gz
+3 - images 2/data
